@@ -1,0 +1,22 @@
+Touches :
+W - Micro-jeu précedent 
+X - Micro-jeu suivant
+ESPACE - Touche d'action
+
+////
+
+Micro 1 : Nordland Constitution Day
+
+Rester appuyer sur la touche ESPACE pour lever le drapeau
+Ne marche qu'une seul fois, F5 pour relancer ce micro-jeu
+Victoire quand drapeau atteint le haut du pôle
+
+Micro 2 : Nordman can Fly
+
+Appuyer sur ESPACE pour faire monter l'avion, esquiver les nuages
+Victoire quand l'avion atteint le bord droit de l'écran
+
+
+Micro 3 : Nordman is Art
+
+WIP  
